@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\InferenceEngineRBS\\InferenceEngineRBS.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel\\Source\\Repos\\InferenceEngineRBS\\InferenceEngineRBS.csproj",
       "projectName": "InferenceEngineRBS",
-      "projectPath": "C:\\Users\\Miguel\\Desktop\\InferenceEngineRBS\\InferenceEngineRBS.csproj",
+      "projectPath": "C:\\Users\\Miguel\\Source\\Repos\\InferenceEngineRBS\\InferenceEngineRBS.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel\\Desktop\\InferenceEngineRBS\\obj\\",
+      "outputPath": "C:\\Users\\Miguel\\Source\\Repos\\InferenceEngineRBS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
